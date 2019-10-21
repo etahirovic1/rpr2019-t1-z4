@@ -2,6 +2,7 @@ package ba.unsa.etf.rpr;
 
 import java.util.Scanner;
 
+
 public class Main {
 
     private static Korpa korpa = new Korpa();
